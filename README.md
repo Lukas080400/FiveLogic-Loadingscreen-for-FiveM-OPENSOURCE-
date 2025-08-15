@@ -5,7 +5,7 @@ FiveM Loading Screen
 A simple and customizable loading screen for your FiveM server.
 Displays information, images, or music while players are connecting.
 
-#📦 Installation
+# 📦 Installation
 
 Download and extract the files.
 
