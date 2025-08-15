@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FiveM Server Loading</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Syncopate:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Custom Cursor -->
+    <div class="cursor-outer"></div>
+    <div class="cursor-inner"></div>
+
+    <!-- Particle Effect Background -->
+    <div id="particles-js"></div>
+
+    <div class="container">
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Server Title -->
+            <div class="server-title">
+                <div class="title-glitch" data-text="YOURSERVER">YOURSERVER</div>
+                <div class="title-subtitle">ROLEPLAY</div>
+            </div>
+            <!-- Server Tips -->
+            <div class="tips-container">
+                <div class="tip">
+                    <i class="fas fa-info-circle"></i>
+                    <span>Press F1 to open your phone</span>
+                </div>
+                <div class="tip">
+                    <i class="fas fa-info-circle"></i>
+                    <span>Use T to chat with other players</span>
+                </div>
+                <div class="tip">
+                    <i class="fas fa-info-circle"></i>
+                    <span>Join our Discord for support</span>
+                </div>
+            </div>
+        </div>
+        <!-- Footer -->
+        <div class="footer">
+            <div class="footer-text">Created by fivelogic © 2024</div>
+        </div>
+    </div>
+
+    <!-- Audio Elements -->
+    <audio id="backgroundMusic" loop autoplay>
+        <source src="music/loading.mp3" type="audio/mp3">
+    </audio>
+    
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
