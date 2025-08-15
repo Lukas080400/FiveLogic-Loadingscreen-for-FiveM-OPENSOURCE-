@@ -1,4 +1,4 @@
-# FiveLogic-Loadingscreen-for-FiveM-OPENSOURCE-
+# FiveLogic Loadingscreen for FiveM OPENSOURCE
 
 FiveM Loading Screen
 
