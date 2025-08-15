@@ -1,5 +1,5 @@
 # FiveLogic Loadingscreen for FiveM OPENSOURCE
-
+# https://discord.gg/3XxXvKCPVW
 FiveM Loading Screen
 
 A simple and customizable loading screen for your FiveM server.
