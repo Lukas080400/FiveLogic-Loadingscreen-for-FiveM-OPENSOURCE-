@@ -9,4 +9,5 @@ end)
 AddEventHandler('onResourceStart', function(resourceName)
     if GetCurrentResourceName() ~= resourceName then return end
     print('^2FiveLogic Loading Screen started successfully^7')
+
 end)
