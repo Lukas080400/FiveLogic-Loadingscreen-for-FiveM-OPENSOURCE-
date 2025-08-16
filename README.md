@@ -28,7 +28,6 @@ Add the resource to your server.cfg:
 
 (Optional) Edit styles.css or index.html to customize background, music, and text.
 
-
 # ⚙️ Customization
 
 Music: Replace the .mp3 file inside the music folder.
