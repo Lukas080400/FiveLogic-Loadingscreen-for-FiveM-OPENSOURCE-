@@ -1,4 +1,4 @@
-# FiveLogic Loadingscreen for FiveM OPENSOURCE
+# FiveLogic Loadingscreen for FiveM [OPENSOURCE]
 # https://discord.gg/3XxXvKCPVW
 FiveM Loading Screen
 
